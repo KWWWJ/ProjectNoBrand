@@ -8,6 +8,7 @@
   한상윤 (메인페이지, 상품목록페이지, 상픔등록페이지)  
   김동선 (DB, Bean, DAO, 로그인/아웃, 회원가입)  
   권원준 (페이지 공통배너, 장바구니, 상품상세페이지)
+  * 문서 보러가기 https://www.canva.com/design/DAF0H7Mu9ro/eJqCJih-0lidOyE1J7iwkg/edit?utm_content=DAF0H7Mu9ro&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <br><br><br>
 ## 프로젝트 기간
   10/30(월) ~ 11/10(금)  
