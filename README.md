@@ -82,7 +82,7 @@
   * 원인 : jdbcTemplate 메서드 잘못사용
   * 해결방법 : 메서드 query -> update 으로 수정하여 해결
 
-## 문서 보러가기
+## 정리 문서
  * https://www.canva.com/design/DAF0H7Mu9ro/eJqCJih-0lidOyE1J7iwkg/edit?utm_content=DAF0H7Mu9ro&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
